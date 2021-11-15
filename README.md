@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @w2k31984
+- 👋 Hi, I’m Cristian Parada I am from El Salavador and live in San Salvador.
 - 👀 I’m interested in QA Enginner, QA Automation, Developer Java and Python.
 - 🌱 I’m currently learning Machine IA, Development in Java, Python and Golang.
 - 💞️ I’m looking to collaborate on QA projects, development in Java, Python or Goland.
