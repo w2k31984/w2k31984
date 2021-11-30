@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cristian Parada I am from El Salavador and live in San Salvador.
-- 👀 I’m interested in QA Enginner, QA Automation, Developer Java,Python and golang or simple GO.
+- 👀 I’m interested in QA Enginner, QA Automation, Developer Java,Python and golang or simple GO and study developer rust language.
 - 🌱 I’m currently learning Machine learning, Data Science, IA, Development in Java, Python and Golang.
 - 💞️ I’m looking to collaborate on QA projects, development in Java, Python or Goland.
 - 📫 How to reach me cmpmendoza12@gmail.com or visit my website https://cristianparada.netlify.app/
