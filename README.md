@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA Enginner, QA Automation, Developer Java,Python and study developer Rust language.
 - 🌱 I’m currently learning Machine learning, Data Science, IA, Development in Java, Python and Rust.
 - 💞️ I’m looking to collaborate on QA projects, development in Java, Python.
-- 🌱 I’m currently Bitcoin and Lightning Network developer.
+- 🌱 I’m currently Data Science and Data Analyst.
 
 - 📫 How to reach me cmpmendoza12@gmail.com or visit my website https://cristianparada.netlify.app/
 
