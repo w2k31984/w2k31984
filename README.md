@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cristian Parada I am from El Salvador and live in San Salvador city.
-- 👀 I’m interested in QA Enginner, QA Automation, Developer Java,Python and study developer Rust language.
+- 👀 I’m interested in QA Engineer, Data Analyst, Data Science, Developer Java,Python and study developer Rust language.
 - 🌱 I’m currently learning Machine learning, Data Science, IA, Development in Java, Python and Rust.
 - 💞️ I’m looking to collaborate on QA projects, development in Java, Python.
 - 🌱 I’m currently Data Scientist and Data Analyst.
